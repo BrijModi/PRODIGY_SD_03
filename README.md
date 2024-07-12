@@ -1,1 +1,3 @@
-# PRODIGY_SD_03
+I used the Python programming language to design a contact management system for this software development work. It has several capabilities, including the ability to add, view, edit, and delete contacts. There are two buttons on the main screen, along with a picture and background. One is to add a contact, and the other is to see the contact. The view contact window allows you to modify and delete the contact in addition to displaying all of the contacts that are available. DBMS is used to store all of the contact data (MySQL). For frontend purposes, only Tkinter is utilized.
+
+Additionally, I've attached a video that demonstrates how my task operates.
